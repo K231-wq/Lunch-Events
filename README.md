@@ -25,12 +25,14 @@ Lunch-Events is a PHP-based web application that allows users to register, log i
     Update the database connection details in the PHP files (e.g., create.php, delete.php, etc.).
 5. Start the PHP server:
 
-## php -S localhost:8000
+    php -S localhost:8000
 
 ## Usage Instructions
 
 1. Open the application in your browser:
-# http://localhost:8000
+
+    http://localhost:8000
+    
 2. Register a new account on the registration page.
 3. Log in with your credentials.
 4. Create a new event on the create event page.
